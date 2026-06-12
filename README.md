@@ -1,91 +1,45 @@
-### <div align="center">Hey there, I'm Keatlegile Rachidi👋</div>  
-  
+# About Me
 
-<div align="center">Cloud Security Enthusiast | Future AWS Cloud Security Engineer📖</div>  
-  
-<br/>
+I am a dedicated Information Technology student at Belgium Campus specializing in software development, cloud infrastructure, and security research. Alongside my academic studies, I work as a professional IT and programming tutor, helping other students master core computer science and software development concepts.
 
-- 🔭 I’m currently working on obtaining my CompTIA Security+ Certification and gaining more knowledge related to Cloud Security.  
-  
+My technical focus centers on building secure applications, exploring cloud architecture, and analyzing system vulnerabilities through hands-on lab environments.
 
-- 🌱 I’m currently learning AWS IAM (Identity and Access Management) and Linux.  
-  
+---
 
-<br/>  
+## Technical Skill Set
 
+### Programming Languages
+* **Applications and Logic:** C#, Java, Python, C++, JavaScript, HTML & CSS, PowerShell
+* **Database Management:** SQL
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+### Cloud and Infrastructure
+* **Cloud Platforms:** Amazon Web Services (AWS)
+* **Operating Systems:** Linux (Ubuntu, Kali Linux deployment and administration)
+* **Virtualization:** VirtualBox
+* **Environments and Tools:** Wine, Bottles, Git, Visual Studio Code
 
+### Cybersecurity Focus Areas
+* User-level execution and keyboard interception mechanisms
+* Controlled network vulnerability analysis and Denial of Service (DoS) monitoring
+* Software security, memory management, and binary exploitation (64-bit Buffer Overflows)
+* Symmetric cryptography and malware behavioral analysis
 
+---
 
-### Frontend  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
+## Certifications and Professional Milestones
 
-</td><td valign="top" width="33%">
+* **AWS Certified Cloud Practitioner**
+  An industry-recognized credential validating overall understanding of the AWS Cloud platform, covering core cloud concepts, security, technology, and billing.
 
+* **Professional IT and Programming Tutor**
+  Experienced instructor providing curriculum-aligned tutoring across multiple frameworks, including introductory logic, Grade 10 Java fundamentals, object-oriented concepts in C# and Delphi, and advanced networking modules.
 
+---
 
-### Backend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
+## Current Academic and Professional Pursuits
 
-</td><td valign="top" width="33%">
+* **AWS Certified Solutions Architect – Associate (In Progress)**
+  Currently advancing my cloud technical expertise to deepen my understanding of AWS well-architected frameworks, security automation, and scalable system deployment.
+* **Security Research and Simulation Labs**
+  Continuously developing isolated lab environments to model and analyze software vulnerabilities, permission models, and defensive mitigation frameworks.
 
-
-
-### DevOps  
-<div align="center">  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Keatlegile31" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/Keatlegile Rachidi" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/keatlegilerachidi" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Keatlegile31&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Keatlegile31&&style=flat-square" align="center" />
-</div>  
-
-<br />
