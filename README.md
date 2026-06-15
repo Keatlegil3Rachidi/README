@@ -32,7 +32,7 @@ My technical focus centers on building secure applications, exploring cloud arch
   An industry-recognized credential validating overall understanding of the AWS Cloud platform, covering core cloud concepts, security, technology, and billing.
 
 * **Professional IT and Programming Tutor**
-  Experienced instructor providing curriculum-aligned tutoring across multiple frameworks, including introductory logic, Grade 10 Java fundamentals, object-oriented concepts in C# and Delphi, and advanced networking modules.
+  Experienced instructor providing curriculum-aligned tutoring across multiple frameworks, including introductory logic, object-oriented concepts in C# and Delphi, and advanced networking modules.
 
 ---
 
