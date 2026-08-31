@@ -1,7 +1,6 @@
 # About Me
 
-I am a dedicated Information Technology student at Belgium Campus specializing in software development, cloud infrastructure, and security research. Alongside my academic studies, I work as a professional IT and programming tutor, helping other students master core computer science and software development concepts.
-
+I am a dedicated Information Technology student at Belgium Campus specializing in security and networking,
 My technical focus centers on building secure applications, exploring cloud architecture, and analyzing system vulnerabilities through hands-on lab environments.
 
 ---
@@ -30,9 +29,6 @@ My technical focus centers on building secure applications, exploring cloud arch
 
 * **AWS Certified Cloud Practitioner**
   An industry-recognized credential validating overall understanding of the AWS Cloud platform, covering core cloud concepts, security, technology, and billing.
-
-* **Professional IT and Programming Tutor**
-  Experienced instructor providing curriculum-aligned tutoring across multiple frameworks, including introductory logic, object-oriented concepts in C# and Delphi, and advanced networking modules.
 
 ---
 
